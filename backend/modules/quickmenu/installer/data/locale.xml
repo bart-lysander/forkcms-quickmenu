@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+    <backend>
+        <quickmenu>
+            <item type="label" name="AddQuickmenu">
+                <translation language="nl"><![CDATA[Quickmenu toevoegen]]></translation>
+                <translation language="en"><![CDATA[add Quickmenu]]></translation>
+            </item>
+            <item type="label" name="NumItems">
+                <translation language="nl"><![CDATA[aantal items]]></translation>
+                <translation language="en"><![CDATA[number of items]]></translation>
+            </item>
+        </quickmenu>
+        <core>
+            <item type="label" name="Quickmenu">
+                <translation language="nl"><![CDATA[Quickmenu]]></translation>
+                <translation language="en"><![CDATA[Quickmenu]]></translation>
+            </item>
+            <item type="label" name="QuickmenuDetail">
+                <translation language="nl"><![CDATA[Quickmenu detail]]></translation>
+                <translation language="en"><![CDATA[Quickmenu detail]]></translation>
+            </item>
+            <item type="label" name="QuickmenuCategory">
+                <translation language="nl"><![CDATA[Quickmenu categorie]]></translation>
+                <translation language="en"><![CDATA[Quickmenu category]]></translation>
+            </item>
+            <item type="message" name="NoCategories">
+                <translation language="en"><![CDATA[no categories]]></translation>
+                <translation language="nl"><![CDATA[geen categorieën]]></translation>
+            </item>
+        </core>
+    </backend>
+    <frontend>
+        <core>
+        </core>
+    </frontend>
+</locale>

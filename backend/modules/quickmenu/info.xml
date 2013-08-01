@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>Quickmenu</name>
+	<version>1.0.0</version>
+	<requirements>
+		<minimum_version>versionname</minimum_version>
+	</requirements>
+	<description>
+		<![CDATA[Quickmenu for create custom menu(s)]]>
+	</description>
+	<authors>
+		<author>
+			<name><![CDATA[Bart Lagerweij]]></name>
+			<url><![CDATA[http://bartpe.nl]]></url>
+		</author>
+	</authors>
+	<events>
+		<event application="backend" name="after_add"><![CDATA[Triggered when a Quickmenu is added.]]></event>
+		<event application="backend" name="after_delete"><![CDATA[Triggered when a Quickmenu is deleted.]]></event>
+		<event application="backend" name="after_edit"><![CDATA[Triggered when a Quickmenu is edited.]]></event>
+		<event application="backend" name="after_saved_settings"><![CDATA[Triggered when settings are saved.]]></event>
+	</events>
+</module>
