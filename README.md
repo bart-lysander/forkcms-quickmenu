@@ -14,11 +14,13 @@
 ## Information
 ### What does the quickmenu module do?
 The Quickmenu is for you if you need to display an alternate menu on your website.
+ForkCMS already has a main and footer navigation menu.
+But sometimes you need an extra navigation list.
 
 ### What are it's features?
 * You can create your own menus by using categories.
-* Organise the menu items in the backend by drag 'n drop.
-* You can add a menu by adding a widget on a page or hardcoded in the tempate by using (where 1 stands for the category id):
+* Organise (order) the menu items in the backend by drag 'n drop.
+* Also works in multi language mode.
+* You can add a menu by adding a widget on a page or hardcoded in the tempate by adding this line (where 1 stands for the category id):
 
         {$var|parsewidget:"quickmenu":"detail":"1"}
-
