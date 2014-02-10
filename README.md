@@ -1,5 +1,8 @@
 # Menu module for [Fork-cms](http://www.fork-cms.com)
 
+## Notice: This module is depricated!!!
+Please use [Navigation Block module](https://github.com/bart-lysander/navigation-block) instead.
+
 ## About
 * Version: 0.0.9
 * ForkCMS version: 3.5.0+
